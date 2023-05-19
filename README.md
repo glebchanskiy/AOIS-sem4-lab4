@@ -19,7 +19,7 @@ R: (!A&!B&C)|(!A&B&!C)|(A&!B&!C)|(A&B&C) уже минимальная
 P: (!A&!B&C)|(!A&B&!C)|(!A&B&C)|(A&B&C) -> (!B&!C)|(A&!B)|(A&!C)
 ![P](./screens/part1-1.png)
 
-## Part 2. Sifter
+## Part 2. Shifter
 
  A |  B | C | D | | | | |
  ---|---|---|---|---|---|---|---
